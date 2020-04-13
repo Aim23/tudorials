@@ -1,4 +1,6 @@
-# Automatic trading signals using python (part 2)
+# Algo Trading in Python
+## Part 2: EXCHANGE INTERFACE & FINDING SIGNALS
+###### Writing an interface allowing us to interact with Binance & checking all pairs for signals
 
 This folder contains the source code for this [video](https://youtu.be/NTcZGzWBwAQ).
 
@@ -16,8 +18,9 @@ Note: We're not using some of the functions within the Binance interface in this
 
 ## Requirements
 
-Create a [Binance Account](https://www.binance.com/?ref=10961872)
+Create a [Binance Account](https://www.binance.com/?ref=10961872) (10% OFF for trading fees)
 
-#### Software 
+## Contact 
 
-Requirements are the same as in Part 1
+Do you have a strategy that you want to implement in an algorithm?
+Send me an email: hello@tudorbarbulescu.com

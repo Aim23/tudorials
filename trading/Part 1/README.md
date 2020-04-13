@@ -1,4 +1,7 @@
-# Automatic trading signals using python (part 1)
+# Algo Trading in Python
+
+## Part 1: BUILDING BLOCKS
+###### Getting data from exchange, computing an indicator & writing an initial strategy
 This folder contains the source code for this [video](https://www.youtube.com/watch?v=LiqQsmU6qYg).
 
 ## Description
@@ -28,12 +31,8 @@ Install [plotly](https://plot.ly/python/getting-started/).
 
 [pyplot](https://plot.ly/python/getting-started/)
 
-## Credits
+## Contact 
 
-##### Music
+Do you have a strategy that you want to implement in an algorithm?
+Send me an email: hello@tudorbarbulescu.com
 
-Intro & Outro: Kalimba - Ninja we Ninja
-
-Bob Marley - Sun is Shining
-
-Shlohmo - Ghosts, part 2
